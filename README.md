@@ -8,7 +8,7 @@ justify-content: center; gap: 10px"> <img src="https://komarev.com/ghpvc/?userna
 
 <p align="center" style="    display: flex;
 flex-wrap: wrap;
-justify-content: center; gap: 10px"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=shashikant2002" alt="shashikant2002" /></a> </p>
+justify-content: center; gap: 10px"> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=shashikant2002" alt="shashikant2002" /></a> </p>
 
 <h3 align="center" style="    display: flex;
 flex-wrap: wrap;
