@@ -37,7 +37,7 @@ MERN stack Web Developer with 2.7 years of experience building Web Pages for pro
 ✓ I have near 2.9 Year of Experienced MERN stack developer with MongoDB, 
 Express.js, React.js, Next JS, React Native and Node.js skills. <br/>
 ✓ Good understanding of JavaScript ES6, HTML5, CSS3 and up to date UI 
-frameworks/libraries like Tailwind CSS, MUI, Bootstrap and O2Auth.<br/>
+frameworks/libraries.<br/>
 ✓ Frontend:
 React.js, React Native, Next JS, Redux, HTML5, CSS3, ES6+ JavaScript, 
 Axios, MUI, Tailwind CSS, Bootstrap.<br/>
