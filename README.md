@@ -6,13 +6,15 @@
 flex-wrap: wrap;
 justify-content: center; gap: 10px"> <img src="https://komarev.com/ghpvc/?username=shashikant2002&label=Profile%20views&color=0e75b6&style=flat" alt="shashikant2002" /> </p>
 
-<p align="center" style="    display: flex;
-flex-wrap: wrap;
-justify-content: center; gap: 10px"> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=shashikant2002" alt="shashikant2002" /></a> </p>
+<p align="center" s> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=shashikant2002" alt="shashikant2002" /></a> </p>
+
+
 
 <h3 align="center" style="    display: flex;
 flex-wrap: wrap;
 justify-content: center; gap: 10px">Connect with me:</h3>
+
+
 <p align="center" style="    display: flex;
 flex-wrap: wrap;
 justify-content: center; gap: 10px">
