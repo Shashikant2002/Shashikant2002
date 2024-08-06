@@ -1,6 +1,6 @@
  <p style="margin: auto;"></p>
-    <h1 align="center">Hi 👋, I'm Shashikant</h1>
-<h3 align="center">A passionate MERN Stack Developer With NextJs and React Native from India</h3>
+    <h1>Hi 👋, I'm Shashikant</h1>
+<h3>A passionate MERN Stack Developer With NextJs and React Native from India</h3>
 
 <p align="center" style="    display: flex;
 flex-wrap: wrap;
