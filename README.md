@@ -34,7 +34,7 @@ justify-content: center; gap: 10px"> <a href="https://aws.amazon.com" target="_b
 
 # 💫 About Me:
 MERN stack Web Developer with 2.7 years of experience building Web Pages for prominent tech companies. Has a <br>Strong Background in MERN Stack web Development with React JS, node js, Restful API’s, Next js, Redux, React Native <br>Typescript, HTML, CSS, JavaScript, Bootstrap, MUI. <br/> <br/>
-✓ I have near 2.9 Year of Experienced MERN stack developer with MongoDB, 
+<!-- ✓ I have near 2.9 Year of Experienced MERN stack developer with MongoDB, 
 Express.js, React.js, Next JS, React Native and Node.js skills. <br/>
 ✓ Good understanding of JavaScript ES6, HTML5, CSS3 and up to date UI 
 frameworks/libraries.<br/>
@@ -49,7 +49,7 @@ Git, GitHub, npm/yarn, AWS, Vercel, Render.<br/>
 ✓ Combined third-party APIs and services in a bid to bolster the application 
 functionality.<br/>
 ✓ Worked with multifunctional groups to complete projects in time.<br/>
-
+ -->
 
 
 <img src="https://komarev.com/ghpvc/?username=shashikant2002&label=Profile%20views&color=0e75b6&style=flat" alt="shashikant2002" />
