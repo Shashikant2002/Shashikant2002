@@ -2,10 +2,6 @@
 <h3 align="center">Senior Software Engineer | MERN Full Stack Developer | AWS · Nginx · DevOps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashikant2002&label=Profile%20views&color=0e75b6&style=flat" alt="shashikant2002" />
-</p>
-
-<p align="center">
   <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=shashikant2002" alt="shashikant2002" /></a>
 </p>
 
@@ -23,7 +19,7 @@
 Results-driven **MERN Full Stack Developer** with **3 years 10 months** of experience designing, developing, deploying, and maintaining scalable web applications used by **600,000+ users**, including SSR platforms for major media and enterprise clients.
 
 - 🔭 Currently building production-grade SSR/CSR applications at **Hindustan Times** using **React.js, Next.js & TypeScript**
-- 🛠️ Comfortable across the full stack — from **React.js / Next.js / NestJS** on the frontend-backend boundary to **AWS / Nginx / Docker** deployment and **CI/CD** pipelines
+- 🛠️ Comfortable across the full stack -from **React.js / Next.js / NestJS** on the frontend-backend boundary to **AWS / Nginx / Docker** deployment and **CI/CD** pipelines
 - 🚀 Experience owning projects end-to-end: server configuration, deployment, and production support
 - 📱 Also build cross-platform mobile apps with **React Native**
 - 🌱 Currently exploring deeper **DevOps**, **NestJS**, and **AI-assisted dev workflows** (Cursor AI, Copilot, Kiro AI)
@@ -33,13 +29,13 @@ Results-driven **MERN Full Stack Developer** with **3 years 10 months** of exper
 
 ### 💼 Experience
 
-**Senior Software Engineer** — Hindustan Times (via Wrocus Technologies) · *Aug 2025 – Present*
+**Senior Software Engineer** -Hindustan Times (via Wrocus Technologies) · *Aug 2025 – Present*
 Frontend architecture, SSR/CSR apps, reusable component libraries, mentoring junior devs.
 
-**Node.js Developer** — Interwork Software Solution · *Nov 2024 – Jul 2025*
+**Node.js Developer** -Interwork Software Solution · *Nov 2024 – Jul 2025*
 Built the Fabindia 360° Appraisal Portal backend (Node.js, Express, MongoDB), JWT auth, zero-downtime Nginx/IIS deployments.
 
-**MERN Stack Developer** — Adiogent Private Limited, Delhi · *Oct 2022 – Nov 2024*
+**MERN Stack Developer** -Adiogent Private Limited, Delhi · *Oct 2022 – Nov 2024*
 Built full-stack apps for 15–20 clients/products, SSR with Next.js, React Native apps, integrated 70+ REST APIs.
 
 ---
