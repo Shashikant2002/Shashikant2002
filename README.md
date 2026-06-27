@@ -74,8 +74,6 @@ Built full-stack apps for 15–20 clients/products, SSR with Next.js, React Nati
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant2002&theme=onedark&row=1&column=6)](https://github.com/shashikant2002/github-profile-trophy)
-
 ---
 
 <p align="center"><i>📍 Based in Bhajanpura, Delhi · 🗣️ Hindi & English</i></p>
