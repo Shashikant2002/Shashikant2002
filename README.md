@@ -1,73 +1,209 @@
- <!-- <p style="margin: auto;"></p>
-    <h1>Hi 👋, I'm Shashikant</h1>
-<h3>A passionate MERN Stack Developer With NextJs and React Native from India</h3>
+```md
+<!-- =============================================== -->
+<!--               GitHub Profile README             -->
+<!--              Author: Shashikant                 -->
+<!-- =============================================== -->
 
-<p > <img src="https://komarev.com/ghpvc/?username=shashikant2002&label=Profile%20views&color=0e75b6&style=flat" alt="shashikant2002" /> </p>
+<div align="center">
 
-<p align="center"> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=shashikant2002" alt="shashikant2002" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,100:06B6D4&text=Shashikant&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Senior%20MERN%20Full%20Stack%20Developer&descAlignY=58"/>
 
+</div>
 
+<div align="center">
 
-<h3 align="center" style="    display: flex;
-flex-wrap: wrap;
-justify-content: center; gap: 10px">Connect with me:</h3>
+# 👋 Hello, I'm Shashikant
 
+### Senior MERN Full Stack Developer • React • Next.js • NestJS • AWS • Docker
 
-<p align="center" style="    display: flex;
-flex-wrap: wrap;
-justify-content: center; gap: 10px">
-<a href="https://linkedin.com/in/shashikant-prajapti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikant-prajapti" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Senior+MERN+Full+Stack+Developer;React.js+%7C+Next.js+%7C+NestJS+%7C+Node.js;TypeScript+%7C+MongoDB+%7C+AWS+%7C+Docker;Building+Scalable+Enterprise+Applications;Passionate+about+Clean+Architecture+and+Performance"/>
+
+<img src="https://komarev.com/ghpvc/?username=shashikant2002&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Senior MERN Full Stack Developer** with **3+ years of professional experience** building scalable enterprise-grade web applications.
+
+Currently I'm working on enterprise projects for **Hindustan Times** where I develop production-ready applications using **React.js**, **Next.js**, **TypeScript**, **SSR**, and modern frontend architecture.
+
+I enjoy designing systems that are scalable, maintainable, and performant—from UI/UX to backend APIs, cloud deployment, and infrastructure.
+
+---
+
+## 🚀 Current Position
+
+🏢 Senior Software Engineer
+
+📍 Hindustan Times (Client Project)
+
+💼 Through Wrocus Technologies
+
+---
+
+## 👨‍💻 Professional Summary
+
+- 💼 3+ Years Professional Experience
+- 🚀 Senior MERN Full Stack Developer
+- ⚛️ React.js & Next.js Expert
+- 🔥 Node.js & NestJS Backend Developer
+- ☁️ AWS Cloud & Docker
+- 🐧 Linux Server Management
+- 🚀 Nginx + PM2 + CI/CD
+- 📱 React Native Developer
+- 🏗️ Clean Architecture Enthusiast
+- 📈 Performance Optimization
+- 🌍 SEO Friendly Applications
+- ❤️ Open Source Lover
+
+---
+
+## 🌟 What I Do
+
+✔ Enterprise Web Applications
+
+✔ REST API Development
+
+✔ SSR Applications
+
+✔ Admin Dashboards
+
+✔ SaaS Platforms
+
+✔ CMS Development
+
+✔ Authentication Systems
+
+✔ Mobile Applications
+
+✔ Docker Deployment
+
+✔ AWS Infrastructure
+
+✔ Server Configuration
+
+✔ CI/CD Pipelines
+
+---
+
+# 🏆 Achievements
+
+🚀 Nearly 4 Years of Professional Experience
+
+👨‍💻 20+ Production Projects Delivered
+
+🏢 Worked with Enterprise Clients
+
+📚 Built applications serving 600,000+ users
+
+🏫 Platform supporting 10,000+ schools
+
+⚡ Production Deployment Experience
+
+☁ AWS Infrastructure
+
+🐳 Docker Deployment
+
+🚀 Next.js SSR Expert
+
+---
+
+# 💼 Experience Timeline
+
+### 🏢 Senior Software Engineer
+**Hindustan Times (Through Wrocus Technologies)**
+
+**Aug 2025 — Present**
+
+- React.js
+- Next.js
+- TypeScript
+- SSR
+- REST APIs
+- Bitbucket
+- Jira
+
+---
+
+### 🚀 Node.js Developer
+
+**Interwork Software Solutions**
+
+**Nov 2024 — Jul 2025**
+
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+- Nginx
+- IIS
+- VPS
+
+---
+
+### 💻 MERN Stack Developer
+
+**Adiogent Pvt. Ltd.**
+
+**Oct 2022 — Nov 2024**
+
+- React.js
+- React Native
+- Next.js
+- Node.js
+- MongoDB
+- REST APIs
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shashikant384443@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shashikant2002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shashikant-prajapti/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
-<h3 align="center" style="    display: flex;
-flex-wrap: wrap;
-justify-content: center; gap: 10px">Languages and Tools:</h3>
-<p align="center" style="    display: flex;
-flex-wrap: wrap;
-justify-content: center; gap: 10px"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p align="center" style="margin: 0 auto; display: flex; justify-content: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashikant2002&show_icons=true&locale=en&layout=compact" alt="shashikant2002" /></p> -->
-
-
-
-
-
-# 💫 About Me:
-MERN stack Web Developer with 2.7 years of experience building Web Pages for prominent tech companies. Has a <br>Strong Background in MERN Stack web Development with React JS, node js, Restful API’s, Next js, Redux, React Native <br>Typescript, HTML, CSS, JavaScript, Bootstrap, MUI. <br/> <br/>
-<!-- ✓ I have near 2.9 Year of Experienced MERN stack developer with MongoDB, 
-Express.js, React.js, Next JS, React Native and Node.js skills. <br/>
-✓ Good understanding of JavaScript ES6, HTML5, CSS3 and up to date UI 
-frameworks/libraries.<br/>
-✓ Frontend:
-React.js, React Native, Next JS, Redux, HTML5, CSS3, ES6+ JavaScript, 
-Axios, MUI, Tailwind CSS, Bootstrap.<br/>
-✓ Backend:
-Node.js, Express.js, MongoDB and Mongoose with it’s RESTful 
-APIs/Endpoints for Authentication (JWT).<br/>
-✓ Tools & Technologies:
-Git, GitHub, npm/yarn, AWS, Vercel, Render.<br/>
-✓ Combined third-party APIs and services in a bid to bolster the application 
-functionality.<br/>
-✓ Worked with multifunctional groups to complete projects in time.<br/>
- -->
-
-
-<img src="https://komarev.com/ghpvc/?username=shashikant2002&label=Profile%20views&color=0e75b6&style=flat" alt="shashikant2002" />
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shashikant.prajapti.56/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashikant-prajapti/) 
-
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shashikant2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashikant2002&theme=dark&hide_border=false)    -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant2002&theme=onedark&row=1&column=6)](https://github.com/shashikant2002/github-profile-trophy)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=shashikant2002&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💬 Ask Me About
+
+- React.js
+
+- Next.js
+
+- Node.js
+
+- NestJS
+
+- TypeScript
+
+- MongoDB
+
+- AWS
+
+- Docker
+
+- Nginx
+
+- DevOps
+
+- System Design
+
+- REST APIs
+
+---
+```
