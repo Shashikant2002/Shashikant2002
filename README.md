@@ -23,19 +23,6 @@ Results-driven **MERN Full Stack Developer** with **8 years** of experience desi
 
 ---
 
-### 💼 Experience
-
-**Senior Software Engineer** -Hindustan Times (via Wrocus Technologies) · *Aug 2025 – Present*
-Frontend architecture, SSR/CSR apps, reusable component libraries, mentoring junior devs.
-
-**Node.js Developer** -Interwork Software Solution · *Nov 2024 – Jul 2025*
-Built the Fabindia 360° Appraisal Portal backend (Node.js, Express, MongoDB), JWT auth, zero-downtime Nginx/IIS deployments.
-
-**MERN Stack Developer** -Adiogent Private Limited, Delhi · *Oct 2022 – Nov 2024*
-Built full-stack apps for 15–20 clients/products, SSR with Next.js, React Native apps, integrated 70+ REST APIs.
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description |
