@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-Results-driven **MERN Full Stack Developer** with **8 years** of experience designing, developing, deploying, and maintaining scalable web applications used by **600,000+ users**, including SSR platforms for major media and enterprise clients.
+Results-driven **MERN Full Stack Developer** with **4 years** of experience designing, developing, deploying, and maintaining scalable web applications used by **600,000+ users**, including SSR platforms for major media and enterprise clients.
 
 - 🔭 Currently building production-grade SSR/CSR applications at **Hindustan Times** using **React.js, Next.js & TypeScript**
 - 🛠️ Comfortable across the full stack -from **React.js / Next.js / NestJS** on the frontend-backend boundary to **AWS / Nginx / Docker** deployment and **CI/CD** pipelines
