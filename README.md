@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashikant</h1>
-<h3 align="center">Senior Software Engineer | MERN Full Stack Developer | AWS · Nginx · DevOps</h3>
+<h3 align="center">MERN Full Stack Developer | React Native, Next.js, NestJS | AWS, Docker, Nginx, Mongo DB, MySQL | 4+ Years Experience</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
